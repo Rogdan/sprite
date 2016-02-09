@@ -1,1 +1,1 @@
-# sprite
+# Sprite animation
