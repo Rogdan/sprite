@@ -26,7 +26,7 @@ local function getSequenceButterfly()
 			count = 84,
 			time = 7000,
 			loopCount = count,
-			loopDirectio = "bounce" --Can be "Forward" or "Bounce".
+			loopDirection = "bounce" --Can be "Forward" or "Bounce".
 		},
 		
 		{
@@ -34,7 +34,7 @@ local function getSequenceButterfly()
 			frames = {1, 10, 20, 30, 40, 50, 60, 70, 80},
 			time = 1000,
 			loopCount = 0,
-			loopDirectio = "bounce"
+			loopDirection = "bounce"
 		}
 	}
 	
